@@ -6,7 +6,7 @@
 
 
 
-# Projeto Nao finalizado em fases de desenvolvimento e testes..
+# Projeto Nao finalizado em fases de desenvolvimento e testes.
 
 ### Progresso
 
