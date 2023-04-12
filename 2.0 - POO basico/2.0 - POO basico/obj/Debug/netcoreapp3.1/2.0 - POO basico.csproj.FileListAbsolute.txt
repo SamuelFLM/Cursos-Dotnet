@@ -1,0 +1,14 @@
+C:\temp\ws-dotnet\2.0 - POO basico\2.0 - POO basico\bin\Debug\netcoreapp3.1\2.0 - POO basico.exe
+C:\temp\ws-dotnet\2.0 - POO basico\2.0 - POO basico\bin\Debug\netcoreapp3.1\2.0 - POO basico.deps.json
+C:\temp\ws-dotnet\2.0 - POO basico\2.0 - POO basico\bin\Debug\netcoreapp3.1\2.0 - POO basico.runtimeconfig.json
+C:\temp\ws-dotnet\2.0 - POO basico\2.0 - POO basico\bin\Debug\netcoreapp3.1\2.0 - POO basico.runtimeconfig.dev.json
+C:\temp\ws-dotnet\2.0 - POO basico\2.0 - POO basico\bin\Debug\netcoreapp3.1\2.0 - POO basico.dll
+C:\temp\ws-dotnet\2.0 - POO basico\2.0 - POO basico\bin\Debug\netcoreapp3.1\2.0 - POO basico.pdb
+C:\temp\ws-dotnet\2.0 - POO basico\2.0 - POO basico\obj\Debug\netcoreapp3.1\2.0 - POO basico.csproj.AssemblyReference.cache
+C:\temp\ws-dotnet\2.0 - POO basico\2.0 - POO basico\obj\Debug\netcoreapp3.1\2.0 - POO basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-dotnet\2.0 - POO basico\2.0 - POO basico\obj\Debug\netcoreapp3.1\2.0 - POO basico.AssemblyInfoInputs.cache
+C:\temp\ws-dotnet\2.0 - POO basico\2.0 - POO basico\obj\Debug\netcoreapp3.1\2.0 - POO basico.AssemblyInfo.cs
+C:\temp\ws-dotnet\2.0 - POO basico\2.0 - POO basico\obj\Debug\netcoreapp3.1\2.0 - POO basico.csproj.CoreCompileInputs.cache
+C:\temp\ws-dotnet\2.0 - POO basico\2.0 - POO basico\obj\Debug\netcoreapp3.1\2.0 - POO basico.dll
+C:\temp\ws-dotnet\2.0 - POO basico\2.0 - POO basico\obj\Debug\netcoreapp3.1\2.0 - POO basico.pdb
+C:\temp\ws-dotnet\2.0 - POO basico\2.0 - POO basico\obj\Debug\netcoreapp3.1\2.0 - POO basico.genruntimeconfig.cache
