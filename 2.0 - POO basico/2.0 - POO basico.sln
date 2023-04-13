@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{4D7430AF-D524-47F9-8667-422431D23884}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{4D7430AF-D524-47F9-8667-422431D23884}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioOutputInput", "ExercicioOutputInput\ExercicioOutputInput.csproj", "{30DB1914-894E-47AD-BD30-5B775C920624}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioOutputInput", "ExercicioOutputInput\ExercicioOutputInput.csproj", "{30DB1914-894E-47AD-BD30-5B775C920624}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.csproj", "{27BC3246-B46B-4873-B2F0-51B2CE697320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estatico", "estatico\Estatico.csproj", "{EDC80EF6-B941-4B66-8C91-E60EB3D79400}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{30DB1914-894E-47AD-BD30-5B775C920624}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30DB1914-894E-47AD-BD30-5B775C920624}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30DB1914-894E-47AD-BD30-5B775C920624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27BC3246-B46B-4873-B2F0-51B2CE697320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BC3246-B46B-4873-B2F0-51B2CE697320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BC3246-B46B-4873-B2F0-51B2CE697320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BC3246-B46B-4873-B2F0-51B2CE697320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC80EF6-B941-4B66-8C91-E60EB3D79400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC80EF6-B941-4B66-8C91-E60EB3D79400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC80EF6-B941-4B66-8C91-E60EB3D79400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC80EF6-B941-4B66-8C91-E60EB3D79400}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

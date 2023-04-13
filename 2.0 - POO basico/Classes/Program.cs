@@ -1,4 +1,5 @@
 ﻿using System;
+using Classes.Veiculos;
 
 namespace Classes
 {
@@ -6,7 +7,14 @@ namespace Classes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Carro carro = new Carro();
+
+            Console.WriteLine($"Luzes Internas: {carro.LuzesInternas}");
+
+            carro.AbrirPorta();
+            Console.WriteLine($"Luzes Internas: {carro.LuzesInternas}");
+
+
         }
     }
 }
