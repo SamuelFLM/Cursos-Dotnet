@@ -10,6 +10,9 @@ namespace estatico
             Console.WriteLine("Hello World!");
 
             Carro.QuantidadeCarrosProduzidos = 200;
+
+            Console.WriteLine($"Quantidade de carros produzidos: {Carro.QuantidadeCarrosProduzidos}");
+
         }
     }
 }

@@ -12,9 +12,9 @@ namespace Estatico
         public string Marca;
 
 
-        public void AbrirPorta()
+        public static void AbrirPorta()
         {
-
+            Console.WriteLine("Eai meu nobre");
         }
     }
 }
