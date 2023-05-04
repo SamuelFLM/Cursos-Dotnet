@@ -1,0 +1,14 @@
+C:\temp\ws-dotnet\Arrays\lista\bin\Debug\netcoreapp3.1\lista.exe
+C:\temp\ws-dotnet\Arrays\lista\bin\Debug\netcoreapp3.1\lista.deps.json
+C:\temp\ws-dotnet\Arrays\lista\bin\Debug\netcoreapp3.1\lista.runtimeconfig.json
+C:\temp\ws-dotnet\Arrays\lista\bin\Debug\netcoreapp3.1\lista.runtimeconfig.dev.json
+C:\temp\ws-dotnet\Arrays\lista\bin\Debug\netcoreapp3.1\lista.dll
+C:\temp\ws-dotnet\Arrays\lista\bin\Debug\netcoreapp3.1\lista.pdb
+C:\temp\ws-dotnet\Arrays\lista\obj\Debug\netcoreapp3.1\lista.csproj.AssemblyReference.cache
+C:\temp\ws-dotnet\Arrays\lista\obj\Debug\netcoreapp3.1\lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-dotnet\Arrays\lista\obj\Debug\netcoreapp3.1\lista.AssemblyInfoInputs.cache
+C:\temp\ws-dotnet\Arrays\lista\obj\Debug\netcoreapp3.1\lista.AssemblyInfo.cs
+C:\temp\ws-dotnet\Arrays\lista\obj\Debug\netcoreapp3.1\lista.csproj.CoreCompileInputs.cache
+C:\temp\ws-dotnet\Arrays\lista\obj\Debug\netcoreapp3.1\lista.dll
+C:\temp\ws-dotnet\Arrays\lista\obj\Debug\netcoreapp3.1\lista.pdb
+C:\temp\ws-dotnet\Arrays\lista\obj\Debug\netcoreapp3.1\lista.genruntimeconfig.cache
