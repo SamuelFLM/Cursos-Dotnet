@@ -1,0 +1,14 @@
+C:\temp\ws-dotnet\HerencaPolimorfismo\Construtor\bin\Debug\netcoreapp3.1\Construtor.exe
+C:\temp\ws-dotnet\HerencaPolimorfismo\Construtor\bin\Debug\netcoreapp3.1\Construtor.deps.json
+C:\temp\ws-dotnet\HerencaPolimorfismo\Construtor\bin\Debug\netcoreapp3.1\Construtor.runtimeconfig.json
+C:\temp\ws-dotnet\HerencaPolimorfismo\Construtor\bin\Debug\netcoreapp3.1\Construtor.runtimeconfig.dev.json
+C:\temp\ws-dotnet\HerencaPolimorfismo\Construtor\bin\Debug\netcoreapp3.1\Construtor.dll
+C:\temp\ws-dotnet\HerencaPolimorfismo\Construtor\bin\Debug\netcoreapp3.1\Construtor.pdb
+C:\temp\ws-dotnet\HerencaPolimorfismo\Construtor\obj\Debug\netcoreapp3.1\Construtor.csproj.AssemblyReference.cache
+C:\temp\ws-dotnet\HerencaPolimorfismo\Construtor\obj\Debug\netcoreapp3.1\Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-dotnet\HerencaPolimorfismo\Construtor\obj\Debug\netcoreapp3.1\Construtor.AssemblyInfoInputs.cache
+C:\temp\ws-dotnet\HerencaPolimorfismo\Construtor\obj\Debug\netcoreapp3.1\Construtor.AssemblyInfo.cs
+C:\temp\ws-dotnet\HerencaPolimorfismo\Construtor\obj\Debug\netcoreapp3.1\Construtor.csproj.CoreCompileInputs.cache
+C:\temp\ws-dotnet\HerencaPolimorfismo\Construtor\obj\Debug\netcoreapp3.1\Construtor.dll
+C:\temp\ws-dotnet\HerencaPolimorfismo\Construtor\obj\Debug\netcoreapp3.1\Construtor.pdb
+C:\temp\ws-dotnet\HerencaPolimorfismo\Construtor\obj\Debug\netcoreapp3.1\Construtor.genruntimeconfig.cache
