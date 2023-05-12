@@ -1,0 +1,14 @@
+C:\temp\ws-dotnet\Exercicios\Exercicio_02\bin\Debug\netcoreapp3.1\Exercicio_02.exe
+C:\temp\ws-dotnet\Exercicios\Exercicio_02\bin\Debug\netcoreapp3.1\Exercicio_02.deps.json
+C:\temp\ws-dotnet\Exercicios\Exercicio_02\bin\Debug\netcoreapp3.1\Exercicio_02.runtimeconfig.json
+C:\temp\ws-dotnet\Exercicios\Exercicio_02\bin\Debug\netcoreapp3.1\Exercicio_02.runtimeconfig.dev.json
+C:\temp\ws-dotnet\Exercicios\Exercicio_02\bin\Debug\netcoreapp3.1\Exercicio_02.dll
+C:\temp\ws-dotnet\Exercicios\Exercicio_02\bin\Debug\netcoreapp3.1\Exercicio_02.pdb
+C:\temp\ws-dotnet\Exercicios\Exercicio_02\obj\Debug\netcoreapp3.1\Exercicio_02.csproj.AssemblyReference.cache
+C:\temp\ws-dotnet\Exercicios\Exercicio_02\obj\Debug\netcoreapp3.1\Exercicio_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-dotnet\Exercicios\Exercicio_02\obj\Debug\netcoreapp3.1\Exercicio_02.AssemblyInfoInputs.cache
+C:\temp\ws-dotnet\Exercicios\Exercicio_02\obj\Debug\netcoreapp3.1\Exercicio_02.AssemblyInfo.cs
+C:\temp\ws-dotnet\Exercicios\Exercicio_02\obj\Debug\netcoreapp3.1\Exercicio_02.csproj.CoreCompileInputs.cache
+C:\temp\ws-dotnet\Exercicios\Exercicio_02\obj\Debug\netcoreapp3.1\Exercicio_02.dll
+C:\temp\ws-dotnet\Exercicios\Exercicio_02\obj\Debug\netcoreapp3.1\Exercicio_02.pdb
+C:\temp\ws-dotnet\Exercicios\Exercicio_02\obj\Debug\netcoreapp3.1\Exercicio_02.genruntimeconfig.cache
