@@ -1,0 +1,14 @@
+C:\temp\ws-dotnet\Intermediario\Revisao POO\bin\Debug\netcoreapp3.1\Revisao POO.exe
+C:\temp\ws-dotnet\Intermediario\Revisao POO\bin\Debug\netcoreapp3.1\Revisao POO.deps.json
+C:\temp\ws-dotnet\Intermediario\Revisao POO\bin\Debug\netcoreapp3.1\Revisao POO.runtimeconfig.json
+C:\temp\ws-dotnet\Intermediario\Revisao POO\bin\Debug\netcoreapp3.1\Revisao POO.runtimeconfig.dev.json
+C:\temp\ws-dotnet\Intermediario\Revisao POO\bin\Debug\netcoreapp3.1\Revisao POO.dll
+C:\temp\ws-dotnet\Intermediario\Revisao POO\bin\Debug\netcoreapp3.1\Revisao POO.pdb
+C:\temp\ws-dotnet\Intermediario\Revisao POO\obj\Debug\netcoreapp3.1\Revisao POO.csproj.AssemblyReference.cache
+C:\temp\ws-dotnet\Intermediario\Revisao POO\obj\Debug\netcoreapp3.1\Revisao POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-dotnet\Intermediario\Revisao POO\obj\Debug\netcoreapp3.1\Revisao POO.AssemblyInfoInputs.cache
+C:\temp\ws-dotnet\Intermediario\Revisao POO\obj\Debug\netcoreapp3.1\Revisao POO.AssemblyInfo.cs
+C:\temp\ws-dotnet\Intermediario\Revisao POO\obj\Debug\netcoreapp3.1\Revisao POO.csproj.CoreCompileInputs.cache
+C:\temp\ws-dotnet\Intermediario\Revisao POO\obj\Debug\netcoreapp3.1\Revisao POO.dll
+C:\temp\ws-dotnet\Intermediario\Revisao POO\obj\Debug\netcoreapp3.1\Revisao POO.pdb
+C:\temp\ws-dotnet\Intermediario\Revisao POO\obj\Debug\netcoreapp3.1\Revisao POO.genruntimeconfig.cache
