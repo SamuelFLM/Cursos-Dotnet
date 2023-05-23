@@ -1,0 +1,14 @@
+C:\temp\ws-dotnet\Exercicios\Exercicio_13\bin\Debug\netcoreapp3.1\Exercicio_13.exe
+C:\temp\ws-dotnet\Exercicios\Exercicio_13\bin\Debug\netcoreapp3.1\Exercicio_13.deps.json
+C:\temp\ws-dotnet\Exercicios\Exercicio_13\bin\Debug\netcoreapp3.1\Exercicio_13.runtimeconfig.json
+C:\temp\ws-dotnet\Exercicios\Exercicio_13\bin\Debug\netcoreapp3.1\Exercicio_13.runtimeconfig.dev.json
+C:\temp\ws-dotnet\Exercicios\Exercicio_13\bin\Debug\netcoreapp3.1\Exercicio_13.dll
+C:\temp\ws-dotnet\Exercicios\Exercicio_13\bin\Debug\netcoreapp3.1\Exercicio_13.pdb
+C:\temp\ws-dotnet\Exercicios\Exercicio_13\obj\Debug\netcoreapp3.1\Exercicio_13.csproj.AssemblyReference.cache
+C:\temp\ws-dotnet\Exercicios\Exercicio_13\obj\Debug\netcoreapp3.1\Exercicio_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-dotnet\Exercicios\Exercicio_13\obj\Debug\netcoreapp3.1\Exercicio_13.AssemblyInfoInputs.cache
+C:\temp\ws-dotnet\Exercicios\Exercicio_13\obj\Debug\netcoreapp3.1\Exercicio_13.AssemblyInfo.cs
+C:\temp\ws-dotnet\Exercicios\Exercicio_13\obj\Debug\netcoreapp3.1\Exercicio_13.csproj.CoreCompileInputs.cache
+C:\temp\ws-dotnet\Exercicios\Exercicio_13\obj\Debug\netcoreapp3.1\Exercicio_13.dll
+C:\temp\ws-dotnet\Exercicios\Exercicio_13\obj\Debug\netcoreapp3.1\Exercicio_13.pdb
+C:\temp\ws-dotnet\Exercicios\Exercicio_13\obj\Debug\netcoreapp3.1\Exercicio_13.genruntimeconfig.cache
