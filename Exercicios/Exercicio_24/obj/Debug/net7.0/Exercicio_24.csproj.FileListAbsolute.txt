@@ -1,0 +1,15 @@
+C:\temp\ws-dotnet\Exercicios\Exercicio_24\bin\Debug\net7.0\Exercicio_24.exe
+C:\temp\ws-dotnet\Exercicios\Exercicio_24\bin\Debug\net7.0\Exercicio_24.deps.json
+C:\temp\ws-dotnet\Exercicios\Exercicio_24\bin\Debug\net7.0\Exercicio_24.runtimeconfig.json
+C:\temp\ws-dotnet\Exercicios\Exercicio_24\bin\Debug\net7.0\Exercicio_24.dll
+C:\temp\ws-dotnet\Exercicios\Exercicio_24\bin\Debug\net7.0\Exercicio_24.pdb
+C:\temp\ws-dotnet\Exercicios\Exercicio_24\obj\Debug\net7.0\Exercicio_24.csproj.AssemblyReference.cache
+C:\temp\ws-dotnet\Exercicios\Exercicio_24\obj\Debug\net7.0\Exercicio_24.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-dotnet\Exercicios\Exercicio_24\obj\Debug\net7.0\Exercicio_24.AssemblyInfoInputs.cache
+C:\temp\ws-dotnet\Exercicios\Exercicio_24\obj\Debug\net7.0\Exercicio_24.AssemblyInfo.cs
+C:\temp\ws-dotnet\Exercicios\Exercicio_24\obj\Debug\net7.0\Exercicio_24.csproj.CoreCompileInputs.cache
+C:\temp\ws-dotnet\Exercicios\Exercicio_24\obj\Debug\net7.0\Exercicio_24.dll
+C:\temp\ws-dotnet\Exercicios\Exercicio_24\obj\Debug\net7.0\refint\Exercicio_24.dll
+C:\temp\ws-dotnet\Exercicios\Exercicio_24\obj\Debug\net7.0\Exercicio_24.pdb
+C:\temp\ws-dotnet\Exercicios\Exercicio_24\obj\Debug\net7.0\Exercicio_24.genruntimeconfig.cache
+C:\temp\ws-dotnet\Exercicios\Exercicio_24\obj\Debug\net7.0\ref\Exercicio_24.dll
