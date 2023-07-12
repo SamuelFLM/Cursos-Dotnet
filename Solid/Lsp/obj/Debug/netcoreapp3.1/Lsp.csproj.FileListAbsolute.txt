@@ -1,0 +1,14 @@
+C:\temp\ws-dotnet\Solid\Lsp\bin\Debug\netcoreapp3.1\Lsp.exe
+C:\temp\ws-dotnet\Solid\Lsp\bin\Debug\netcoreapp3.1\Lsp.deps.json
+C:\temp\ws-dotnet\Solid\Lsp\bin\Debug\netcoreapp3.1\Lsp.runtimeconfig.json
+C:\temp\ws-dotnet\Solid\Lsp\bin\Debug\netcoreapp3.1\Lsp.runtimeconfig.dev.json
+C:\temp\ws-dotnet\Solid\Lsp\bin\Debug\netcoreapp3.1\Lsp.dll
+C:\temp\ws-dotnet\Solid\Lsp\bin\Debug\netcoreapp3.1\Lsp.pdb
+C:\temp\ws-dotnet\Solid\Lsp\obj\Debug\netcoreapp3.1\Lsp.csproj.AssemblyReference.cache
+C:\temp\ws-dotnet\Solid\Lsp\obj\Debug\netcoreapp3.1\Lsp.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-dotnet\Solid\Lsp\obj\Debug\netcoreapp3.1\Lsp.AssemblyInfoInputs.cache
+C:\temp\ws-dotnet\Solid\Lsp\obj\Debug\netcoreapp3.1\Lsp.AssemblyInfo.cs
+C:\temp\ws-dotnet\Solid\Lsp\obj\Debug\netcoreapp3.1\Lsp.csproj.CoreCompileInputs.cache
+C:\temp\ws-dotnet\Solid\Lsp\obj\Debug\netcoreapp3.1\Lsp.dll
+C:\temp\ws-dotnet\Solid\Lsp\obj\Debug\netcoreapp3.1\Lsp.pdb
+C:\temp\ws-dotnet\Solid\Lsp\obj\Debug\netcoreapp3.1\Lsp.genruntimeconfig.cache

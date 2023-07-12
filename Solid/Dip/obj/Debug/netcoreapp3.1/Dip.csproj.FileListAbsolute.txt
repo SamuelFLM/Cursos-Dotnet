@@ -1,0 +1,14 @@
+C:\temp\ws-dotnet\Solid\Dip\bin\Debug\netcoreapp3.1\Dip.exe
+C:\temp\ws-dotnet\Solid\Dip\bin\Debug\netcoreapp3.1\Dip.deps.json
+C:\temp\ws-dotnet\Solid\Dip\bin\Debug\netcoreapp3.1\Dip.runtimeconfig.json
+C:\temp\ws-dotnet\Solid\Dip\bin\Debug\netcoreapp3.1\Dip.runtimeconfig.dev.json
+C:\temp\ws-dotnet\Solid\Dip\bin\Debug\netcoreapp3.1\Dip.dll
+C:\temp\ws-dotnet\Solid\Dip\bin\Debug\netcoreapp3.1\Dip.pdb
+C:\temp\ws-dotnet\Solid\Dip\obj\Debug\netcoreapp3.1\Dip.csproj.AssemblyReference.cache
+C:\temp\ws-dotnet\Solid\Dip\obj\Debug\netcoreapp3.1\Dip.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-dotnet\Solid\Dip\obj\Debug\netcoreapp3.1\Dip.AssemblyInfoInputs.cache
+C:\temp\ws-dotnet\Solid\Dip\obj\Debug\netcoreapp3.1\Dip.AssemblyInfo.cs
+C:\temp\ws-dotnet\Solid\Dip\obj\Debug\netcoreapp3.1\Dip.csproj.CoreCompileInputs.cache
+C:\temp\ws-dotnet\Solid\Dip\obj\Debug\netcoreapp3.1\Dip.dll
+C:\temp\ws-dotnet\Solid\Dip\obj\Debug\netcoreapp3.1\Dip.pdb
+C:\temp\ws-dotnet\Solid\Dip\obj\Debug\netcoreapp3.1\Dip.genruntimeconfig.cache

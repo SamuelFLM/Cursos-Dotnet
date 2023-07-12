@@ -1,0 +1,14 @@
+C:\temp\ws-dotnet\Solid\Isp\bin\Debug\netcoreapp3.1\Isp.exe
+C:\temp\ws-dotnet\Solid\Isp\bin\Debug\netcoreapp3.1\Isp.deps.json
+C:\temp\ws-dotnet\Solid\Isp\bin\Debug\netcoreapp3.1\Isp.runtimeconfig.json
+C:\temp\ws-dotnet\Solid\Isp\bin\Debug\netcoreapp3.1\Isp.runtimeconfig.dev.json
+C:\temp\ws-dotnet\Solid\Isp\bin\Debug\netcoreapp3.1\Isp.dll
+C:\temp\ws-dotnet\Solid\Isp\bin\Debug\netcoreapp3.1\Isp.pdb
+C:\temp\ws-dotnet\Solid\Isp\obj\Debug\netcoreapp3.1\Isp.csproj.AssemblyReference.cache
+C:\temp\ws-dotnet\Solid\Isp\obj\Debug\netcoreapp3.1\Isp.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-dotnet\Solid\Isp\obj\Debug\netcoreapp3.1\Isp.AssemblyInfoInputs.cache
+C:\temp\ws-dotnet\Solid\Isp\obj\Debug\netcoreapp3.1\Isp.AssemblyInfo.cs
+C:\temp\ws-dotnet\Solid\Isp\obj\Debug\netcoreapp3.1\Isp.csproj.CoreCompileInputs.cache
+C:\temp\ws-dotnet\Solid\Isp\obj\Debug\netcoreapp3.1\Isp.dll
+C:\temp\ws-dotnet\Solid\Isp\obj\Debug\netcoreapp3.1\Isp.pdb
+C:\temp\ws-dotnet\Solid\Isp\obj\Debug\netcoreapp3.1\Isp.genruntimeconfig.cache

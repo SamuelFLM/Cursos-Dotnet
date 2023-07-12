@@ -1,0 +1,14 @@
+C:\temp\ws-dotnet\Solid\Ocp\bin\Debug\netcoreapp3.1\Ocp.exe
+C:\temp\ws-dotnet\Solid\Ocp\bin\Debug\netcoreapp3.1\Ocp.deps.json
+C:\temp\ws-dotnet\Solid\Ocp\bin\Debug\netcoreapp3.1\Ocp.runtimeconfig.json
+C:\temp\ws-dotnet\Solid\Ocp\bin\Debug\netcoreapp3.1\Ocp.runtimeconfig.dev.json
+C:\temp\ws-dotnet\Solid\Ocp\bin\Debug\netcoreapp3.1\Ocp.dll
+C:\temp\ws-dotnet\Solid\Ocp\bin\Debug\netcoreapp3.1\Ocp.pdb
+C:\temp\ws-dotnet\Solid\Ocp\obj\Debug\netcoreapp3.1\Ocp.csproj.AssemblyReference.cache
+C:\temp\ws-dotnet\Solid\Ocp\obj\Debug\netcoreapp3.1\Ocp.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-dotnet\Solid\Ocp\obj\Debug\netcoreapp3.1\Ocp.AssemblyInfoInputs.cache
+C:\temp\ws-dotnet\Solid\Ocp\obj\Debug\netcoreapp3.1\Ocp.AssemblyInfo.cs
+C:\temp\ws-dotnet\Solid\Ocp\obj\Debug\netcoreapp3.1\Ocp.csproj.CoreCompileInputs.cache
+C:\temp\ws-dotnet\Solid\Ocp\obj\Debug\netcoreapp3.1\Ocp.dll
+C:\temp\ws-dotnet\Solid\Ocp\obj\Debug\netcoreapp3.1\Ocp.pdb
+C:\temp\ws-dotnet\Solid\Ocp\obj\Debug\netcoreapp3.1\Ocp.genruntimeconfig.cache
